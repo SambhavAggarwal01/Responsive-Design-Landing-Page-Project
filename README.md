@@ -1,2 +1,2 @@
 # Responsive-Design-Landing-Page-Project
-A simple Responsive Design Landing Page Project using HTML, CSS, Javascript & Bootstrap
+A simple Responsive Design Landing Page Project using HTML, CSS & Bootstrap
